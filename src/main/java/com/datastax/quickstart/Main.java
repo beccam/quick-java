@@ -4,7 +4,7 @@ import com.datastax.oss.driver.api.core.CqlSession;
 import com.datastax.oss.driver.api.core.cql.*;
 import java.net.InetSocketAddress;
 
-public class GettingStartedComplete {
+public class Main {
 
     public static void main(String[] args) {
 
